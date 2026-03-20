@@ -1,0 +1,124 @@
+{
+  "technical_skills": {
+    "Python": {
+      "category": "Programming Language",
+      "keywords": ["python", "py"],
+      "level": "intermediate",
+      "description": "General-purpose programming language"
+    },
+    "JavaScript": {
+      "category": "Programming Language",
+      "keywords": ["javascript", "js", "node", "nodejs"],
+      "level": "intermediate",
+      "description": "Web and runtime programming language"
+    },
+    "React": {
+      "category": "Frontend Framework",
+      "keywords": ["react", "reactjs"],
+      "level": "intermediate",
+      "description": "JavaScript library for building UIs"
+    },
+    "TypeScript": {
+      "category": "Programming Language",
+      "keywords": ["typescript", "ts"],
+      "level": "intermediate",
+      "description": "Typed superset of JavaScript"
+    },
+    "SQL": {
+      "category": "Database",
+      "keywords": ["sql", "postgres", "postgresql", "mysql", "database"],
+      "level": "intermediate",
+      "description": "Database query language"
+    },
+    "AWS": {
+      "category": "Cloud Platform",
+      "keywords": ["aws", "amazon web services", "ec2", "s3", "lambda"],
+      "level": "advanced",
+      "description": "Amazon cloud computing platform"
+    },
+    "Docker": {
+      "category": "DevOps",
+      "keywords": ["docker", "containers", "containerization"],
+      "level": "intermediate",
+      "description": "Container platform"
+    },
+    "Kubernetes": {
+      "category": "DevOps",
+      "keywords": ["kubernetes", "k8s", "orchestration"],
+      "level": "advanced",
+      "description": "Container orchestration platform"
+    },
+    "Machine Learning": {
+      "category": "AI/ML",
+      "keywords": ["machine learning", "ml", "tensorflow", "pytorch", "scikit-learn"],
+      "level": "advanced",
+      "description": "AI and machine learning algorithms"
+    },
+    "REST API": {
+      "category": "Backend",
+      "keywords": ["rest", "api", "restful", "endpoint"],
+      "level": "intermediate",
+      "description": "Representational State Transfer API design"
+    },
+    "GraphQL": {
+      "category": "Backend",
+      "keywords": ["graphql", "gql"],
+      "level": "intermediate",
+      "description": "Query language for APIs"
+    },
+    "Git": {
+      "category": "Version Control",
+      "keywords": ["git", "github", "gitlab", "version control"],
+      "level": "intermediate",
+      "description": "Version control system"
+    },
+    "CI/CD": {
+      "category": "DevOps",
+      "keywords": ["ci", "cd", "cicd", "jenkins", "gitlab ci", "github actions"],
+      "level": "intermediate",
+      "description": "Continuous Integration and Continuous Deployment"
+    },
+    "Next.js": {
+      "category": "Frontend Framework",
+      "keywords": ["next.js", "nextjs", "next"],
+      "level": "intermediate",
+      "description": "React framework for production"
+    },
+    "Node.js": {
+      "category": "Runtime",
+      "keywords": ["node.js", "nodejs", "node"],
+      "level": "intermediate",
+      "description": "JavaScript runtime for backend"
+    },
+    "Vue.js": {
+      "category": "Frontend Framework",
+      "keywords": ["vue", "vuejs", "vue.js"],
+      "level": "intermediate",
+      "description": "JavaScript framework for UIs"
+    },
+    "Angular": {
+      "category": "Frontend Framework",
+      "keywords": ["angular"],
+      "level": "advanced",
+      "description": "TypeScript-based framework for web apps"
+    },
+    "Tailwind CSS": {
+      "category": "Styling",
+      "keywords": ["tailwind", "tailwindcss", "utility-first"],
+      "level": "intermediate",
+      "description": "Utility-first CSS framework"
+    },
+    "Jest": {
+      "category": "Testing",
+      "keywords": ["jest", "testing"],
+      "level": "intermediate",
+      "description": "JavaScript testing framework"
+    },
+    "Agile": {
+      "category": "Methodology",
+      "keywords": ["agile", "scrum", "sprint"],
+      "level": "intermediate",
+      "description": "Agile project management methodology"
+    }
+  }
+}

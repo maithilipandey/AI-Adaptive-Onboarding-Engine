@@ -1,0 +1,144 @@
+{
+  "learning_paths": {
+    "Python": [
+      "Learn Python basics (variables, data types, control flow)",
+      "Understand functions and modules",
+      "Master object-oriented programming",
+      "Work with libraries (numpy, pandas)",
+      "Build projects with Python"
+    ],
+    "JavaScript": [
+      "Learn JavaScript fundamentals (syntax, DOM)",
+      "Master asynchronous programming (Promises, async/await)",
+      "Understand ES6+ features",
+      "Learn web APIs and fetch",
+      "Build interactive web applications"
+    ],
+    "React": [
+      "Understand JSX and component basics",
+      "Learn hooks (useState, useEffect, useContext)",
+      "Master state management",
+      "Understand lifecycle and side effects",
+      "Build complex component hierarchies"
+    ],
+    "TypeScript": [
+      "Learn TypeScript basic types",
+      "Understand interfaces and types",
+      "Master generics",
+      "Learn decorators and advanced types",
+      "Integrate TypeScript into projects"
+    ],
+    "SQL": [
+      "Learn basic SELECT queries",
+      "Master JOIN operations",
+      "Understand indexes and optimization",
+      "Learn transactions and constraints",
+      "Practice complex queries and aggregations"
+    ],
+    "AWS": [
+      "Learn AWS core services (EC2, S3, RDS)",
+      "Understand IAM and security",
+      "Master networking and VPC",
+      "Learn serverless (Lambda, API Gateway)",
+      "Build scalable applications on AWS"
+    ],
+    "Docker": [
+      "Learn Docker basics and containerization",
+      "Understand Dockerfile creation",
+      "Master Docker Compose",
+      "Learn container networking",
+      "Optimize container images"
+    ],
+    "Kubernetes": [
+      "Learn Kubernetes architecture",
+      "Understand pods and deployments",
+      "Master services and networking",
+      "Learn resource management",
+      "Deploy and scale applications"
+    ],
+    "Machine Learning": [
+      "Learn ML fundamentals and statistics",
+      "Understand supervised learning algorithms",
+      "Master data preprocessing",
+      "Learn model evaluation and validation",
+      "Build end-to-end ML projects"
+    ],
+    "REST API": [
+      "Learn REST principles and HTTP methods",
+      "Understand endpoint design",
+      "Master status codes and headers",
+      "Learn authentication and authorization",
+      "Build RESTful web services"
+    ],
+    "GraphQL": [
+      "Learn GraphQL basics and schema",
+      "Understand queries, mutations, subscriptions",
+      "Master field resolvers",
+      "Learn caching strategies",
+      "Build GraphQL servers"
+    ],
+    "Git": [
+      "Learn Git basics (init, commit, push)",
+      "Understand branching strategies",
+      "Master merging and conflict resolution",
+      "Learn collaborative workflows",
+      "Practice pull requests and code review"
+    ],
+    "CI/CD": [
+      "Learn CI/CD fundamentals",
+      "Understand pipeline configuration",
+      "Master automated testing in pipelines",
+      "Learn deployment automation",
+      "Implement monitoring and rollback strategies"
+    ],
+    "Next.js": [
+      "Learn Next.js basics and routing",
+      "Understand server-side rendering (SSR)",
+      "Master API routes",
+      "Learn incremental static regeneration",
+      "Build full-stack applications with Next.js"
+    ],
+    "Node.js": [
+      "Learn Node.js runtime and npm",
+      "Understand event-driven architecture",
+      "Master async patterns (callbacks, promises)",
+      "Learn Express or similar frameworks",
+      "Build backend services with Node.js"
+    ],
+    "Vue.js": [
+      "Learn Vue.js template syntax",
+      "Understand reactive data binding",
+      "Master Vue components",
+      "Learn state management with Vuex",
+      "Build single-page applications"
+    ],
+    "Angular": [
+      "Learn Angular architecture and modules",
+      "Understand dependency injection",
+      "Master data binding and directives",
+      "Learn services and observables",
+      "Build enterprise applications"
+    ],
+    "Tailwind CSS": [
+      "Learn Tailwind utility classes",
+      "Understand responsive design",
+      "Master component composition",
+      "Learn customization and theming",
+      "Build responsive UIs efficiently"
+    ],
+    "Jest": [
+      "Learn Jest setup and configuration",
+      "Understand test structure (describe, it)",
+      "Master assertions and matchers",
+      "Learn mocking and spying",
+      "Write comprehensive test suites"
+    ],
+    "Agile": [
+      "Learn Agile principles and manifesto",
+      "Understand sprint planning",
+      "Master daily standups and retrospectives",
+      "Learn user stories and estimation",
+      "Practice Agile in team environments"
+    ]
+  }
+}
