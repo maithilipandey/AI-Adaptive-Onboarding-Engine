@@ -281,7 +281,5 @@ For issues or questions:
 - Review the API reference above
 - Check browser console for error messages
 - Verify backend is running with `curl http://localhost:5000/health`
-
 ---
-
 Built with Next.js, Flask, and modern web technologies for career development.
