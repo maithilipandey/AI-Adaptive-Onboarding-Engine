@@ -36,17 +36,11 @@ A modern web application that analyzes your resume against job descriptions to i
 
 ### Installation
 
-1. **Clone and navigate to project**
-```bash
-cd v0-project
-```
-
-2. **Install frontend dependencies**
+ **Install frontend dependencies**
 ```bash
 pnpm install
 ```
-
-3. **Install backend dependencies**
+**Install backend dependencies**
 ```bash
 cd backend
 pip install -r requirements.txt
