@@ -1,4 +1,4 @@
-# Career Development Analysis Tool
+# Career Development Analysis Tool 
 
 A modern web application that analyzes your resume against job descriptions to identify skill gaps and provide personalized learning paths for career advancement.
 
